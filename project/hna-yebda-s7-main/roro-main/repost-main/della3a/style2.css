@@ -1,0 +1,9 @@
+body{ 
+    background-color: darkslategray;
+}
+div{
+height: 80vh;
+background-color: rgb(46, 46, 51); 
+width: 100%;
+color: aqua;
+}
